@@ -32,6 +32,7 @@ const EXAMPLE_SEARCH_GROUPS = [
       "Social state alters vision using three circuit mechanisms in Drosophila",
       "The E3 ubiquitin ligase mechanism specifying target-directed microRNA degradation",
       "Nuclear envelope budding is a non-canonical mechanism to export large transcripts in muscle cells",
+      "Acetylene Functionalization of Multiple-resonant Emitter Enabling Strong Two-Photon Absorption and Delayed Luminescence with Highly Efficient Exciplex-Sensitized Electroluminescence",
     ],
   },
   {
